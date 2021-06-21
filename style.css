@@ -46,6 +46,7 @@ section{
 .second-btn{
     text-decoration: none;
     padding: 10px 20px;
+    border: none;
     border-radius: 30px;
     color: #FFF;
     background: #FF4C60;
